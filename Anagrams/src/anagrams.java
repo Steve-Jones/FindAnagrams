@@ -1,9 +1,7 @@
 /*
-	Steven Jones
-	CS311: PA2 - Anagrams
+	Steve Jones
 	
-	1 CODE (See below)
-	2 DESCRIPTION OF ALGORITHM:
+	DESCRIPTION OF ALGORITHM:
 		To solve find all the anagrams in the dictionary I first created a 
 		static variable for a string of the letters in the alphabet and a 
 		static variable for the the first 26 prime numbers starting with 3. 
@@ -57,7 +55,6 @@
 			= wlogw + l*w + 3w
 			wlogw + l*w
 			
-	3 RUN TIME
 		MACHINE: MacBook Pro (Retina, 13-inch, Late 2013) 2.4 GHz Intel Core i5
 			Dict1:
 				real	0m3.522s
@@ -76,7 +73,7 @@
 				real	0m29.025s
 				user	2m22.877s
 				sys		0m1.428s
-	4 OUTPUT
+	OUTPUT
 		Anagram Classes:
 			Dict1: 67604
 			Dict2: 320722
